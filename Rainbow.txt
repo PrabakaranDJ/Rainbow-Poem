@@ -1,0 +1,5 @@
+This the rainbow text file
+
+apple
+banana
+orange
