@@ -1,4 +1,4 @@
-This the rainbow text file and unicorn
+This the rainbow text file and unicorn and adding ponies
 
 apple
 banana
@@ -6,3 +6,4 @@ orange
 grape 
 guava included
 some unicorn included
+ponnie
